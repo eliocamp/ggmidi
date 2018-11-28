@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543370477199.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "415248145",
+    "id" : "3C647CA2",
+    "lastKnownWriteTime" : 1543373916,
+    "last_content_update" : 1543373916057,
+    "path" : "~/Documents/ggmidi/draft.R",
+    "project_path" : "draft.R",
+    "properties" : {
+        "cursorPosition" : "85,0",
+        "scrollLine" : "63",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
